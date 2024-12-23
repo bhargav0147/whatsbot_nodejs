@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+
+# npm package lock file (optional, can be useful in some cases)
+package-lock.json
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables (can contain sensitive data like API keys)
+.env
+
+# .vscode settings (optional)
+.vscode/
+
+# IDE specific files (for example, for WebStorm)
+.idea/
+
+# Local authentication (for whatsapp-web.js example)
+session/
+
+# dotenv environment config files (specific to your project needs)
+.env.local
+.env.*.local
+
+# Coverage directory created by test frameworks (such as Jest or Mocha)
+coverage/
+
+# Debug folder created by VS Code, JetBrains, etc.
+.vscode/
+
+# TypeScript build output (if you're using TypeScript)
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Additional ignored files/folders can be added depending on your use case
